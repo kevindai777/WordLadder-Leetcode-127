@@ -5,4 +5,4 @@ Leetcode Question 127 (Medium)
 Techniques Used in Question:
 BFS, Queue
 
-[Linnk to Question](https://leetcode.com/problems/word-ladder/)
+[Link to Question](https://leetcode.com/problems/word-ladder/)
